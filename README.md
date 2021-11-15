@@ -1,2 +1,2 @@
-# problememi
-Probleme mi pbinfo
+Arhiva personala de probleme la info
+
